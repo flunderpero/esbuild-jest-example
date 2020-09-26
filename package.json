@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "typescript": "4.0.3",
+    "ws": "7.2.1",
+    "ts-jest": "26.3.0",
+    "jest": "26.4.2",
+    "esbuild": "0.7.5"
+  }
+}
